@@ -635,13 +635,14 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #45505b;
+  color: #000000;
   font-weight: 600;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
   color: #45505b;
-  font-size: 14px;
+  font-size: 20px;
+  font-weight: 600;
   text-transform: uppercase;
   padding: 0;
   margin: 0;
@@ -1023,19 +1024,6 @@ section {
 
 .contact .php-email-form .form-group {
   padding-bottom: 8px;
-}
-
-.contact .php-email-form .error-message {
-  display: none;
-  color: #fff;
-  background: #ed3c0d;
-  text-align: left;
-  padding: 15px;
-  font-weight: 600;
-}
-
-.contact .php-email-form .error-message br+br {
-  margin-top: 25px;
 }
 
 .contact .php-email-form .sent-message {
